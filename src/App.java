@@ -15,9 +15,10 @@
  *   twoLetters("java", 3) will return "ja" because unlike in other cases, when we start at index 3 we will be at the end of the provided String.
  *   So we don't have remaining letters to return a String with length 2. Therefore, based on the rules listed above we return the first two letters "ja".
  *  
- *   *   A+ bonus challenge: 
-*   Add additional features to the code to demonstrate mastery. Be creative! Show off what you know!
-*/
+ *   A+ bonus challenge: 
+ *   Add additional features to the code to demonstrate mastery. Be creative! Show off what you know! 
+ *   This can be in an additional method or within the main. Use comments to explain what you did!
+ */
 
 
 public class App {
