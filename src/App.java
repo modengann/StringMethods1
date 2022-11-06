@@ -3,6 +3,8 @@
  * 
  *   The method twoLetters will accept two variables as parameters: a String and an int called index. The method header has been completed already
  *   Based on these parameters the method will return a String that is two characters long starting from the given index.
+ *   If the index provided is too large or too small and would thus produce a StringIndexOutOfBounds Exception, 
+ *   just return the first two letters of the word.
  * 
  *   For example:
  *   twoLetters("java", 0) will return "ja" because the given index was 0, so it returns the first two letters of the given word
